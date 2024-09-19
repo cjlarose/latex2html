@@ -15,6 +15,7 @@
               ghostscript
               netpbm
               perl
+              poppler_utils
               texliveFull
               # texlive.combined.scheme-basic # doesn't include preview.sty
               # (texliveBasic.withPackages (ps: with ps; [ preview ])) # can't find preview.sty still
